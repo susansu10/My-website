@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.My-photo {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.message-board {
+  margin: 20px;
+}
+
+.message-board input {
+  padding: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.message-board button {
+  padding: 10px;
+}
+
+.message {
+  background-color: #f3f3f3;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.visitor-counter {
+  margin: 20px;
+}
