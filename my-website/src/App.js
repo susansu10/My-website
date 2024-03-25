@@ -34,7 +34,10 @@ function App() {
         <img src={myPhoto} alt="My Photograph" className="My-photo" />
         <p>
           Hi, I'm 杜昉紜.
+          My college major is Computer Science in NDHU.
           Welcome to my personal website!
+          I'm learning React now.
+          If I do something wrong, please let me know.
         </p>
       </header>
       <div className="visitor-counter">
