@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import myPhoto from './myphoto.png'; // 確保將你的照片放在 src 資料夾中
+import myPhoto from './myphoto.png';
 
 function App() {
   // 留言板的 state
